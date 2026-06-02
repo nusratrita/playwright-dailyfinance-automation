@@ -1,0 +1,9 @@
+# Copy this file to config.properties and fill in your local values.
+# Anything passed as a -D system property at runtime overrides the file.
+
+base.url=https://dailyfinance.roadtocareer.net
+
+# Admin credentials. Prefer passing these securely at runtime instead of storing them:
+#   ./gradlew test -Dadmin.email=... -Dadmin.password=...
+admin.email=
+admin.password=

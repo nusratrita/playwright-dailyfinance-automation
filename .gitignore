@@ -1,0 +1,29 @@
+# Gradle
+.gradle/
+
+# Build output
+build/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Logs
+logs/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Playwright recorded videos (large binaries — uploaded to Drive instead)
+videos/
+
+# Per-step screenshots captured during a run (commit only curated report shots
+# placed directly under screenshots/)
+screenshots/dailyfinance/
+
+# Local config / secrets — commit only the .example template
+src/test/resources/config.properties
+!src/test/resources/config.properties.example
