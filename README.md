@@ -1,4 +1,4 @@
-# Assignment 4 — Playwright Automation (Batch 18)
+# Assignment 4 — Playwright Automation
 
 End-to-end UI automation of the **DailyFinance** SPA using **Playwright for Java** on a
 clean **Page Object Model** architecture.

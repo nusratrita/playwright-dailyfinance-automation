@@ -3,7 +3,6 @@
 **Application Under Test:** https://dailyfinance.roadtocareer.net/
 **Test Framework:** Playwright for Java 1.49 + JUnit 5 (Page Object Model)
 **Author:** Nusrat Rita
-**Batch:** 18
 
 ---
 

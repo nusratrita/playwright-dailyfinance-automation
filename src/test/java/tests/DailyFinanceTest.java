@@ -8,7 +8,7 @@ import utils.*;
 import static org.assertj.core.api.Assertions.assertThat;
 
 /**
- * Assignment 4 — Playwright (Batch 18).
+ * Assignment 4 — Playwright.
  * End-to-end automation of https://dailyfinance.roadtocareer.net/ built on the
  * Page Object Model. Steps are @Order-ed so state flows between them via
  * {@link TestContext}. Admin credentials are supplied securely from the terminal
